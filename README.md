@@ -1,4 +1,4 @@
-## Olá! Eu sou o Carlos Eduardo Guimarães 
+## Hi! I'm Carlos Eduardo Guimarães 
  <div>
   <a href="https://github.com/carloseduardogui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardogui&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -11,6 +11,11 @@
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" style="max-width:100%;" />
+  <img align="center" alt="DotNet Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;" />
+   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="max-width:100%;" />
+    <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="max-width:100%;" />
+  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" style="max-width:100%;" />
 </div>
   
   ##
