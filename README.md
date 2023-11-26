@@ -19,6 +19,10 @@
 <div>
   <a href="https://www.linkedin.com/in/carlos-eduardo-guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=carloseduardogui&show_icons=true&count_private=true" />
+</div>
  
 [![wakatime](https://wakatime.com/badge/user/762df926-6bf4-4121-b965-04d194712171.svg)](https://wakatime.com/@762df926-6bf4-4121-b965-04d194712171)
  
